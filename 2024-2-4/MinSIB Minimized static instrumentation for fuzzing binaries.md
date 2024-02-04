@@ -76,7 +76,7 @@ $$
 
 如下图所示，循环路径可以定义为一个CPC：$\mathcal{P}_b=\lbrace{b_1,b_2,b_3,b_4}\rbrace$。
 
-![4](C:\Users\wn\Desktop\2024-2-4\images\4.png)
+![4](images/4.png)
 
 所有可能的CPC构成的CPC集合定义为：
 
@@ -88,7 +88,7 @@ $$
 
 生成CPC集合的算法如下图所示
 
-![5](C:\Users\wn\Desktop\2024-2-4\images\5.png)
+![5](images/5.png)
 
 感兴趣的基本块的集合 $B_f^*$ 的CPC即OptCPCs被定义为：
 

@@ -204,7 +204,7 @@ class CallFlowAnalysis:
 
 打开压缩包后是一幅图片和一个压缩包
 
-![dacong1hao](C:\Users\wn\Desktop\安询杯\MISC\大葱的秘密\dacong1hao.png)
+![dacong1hao](images/9.png)
 
 根据四周的阴影和压缩包的加密以及尝试我们可以发现这是一个盲水印图片，提取盲水印得到![8](images/8.png)
 
@@ -214,7 +214,7 @@ class CallFlowAnalysis:
 
 将其复制逆序一下得到一个zip
 
-![11](C:\Users\wn\Desktop\2024-2-5\images/11.PNG)
+![11](images/11.PNG)
 
 然后检查第一个图片发现了多个IDAT，使用 pngcheck 对文件进行分析
 
